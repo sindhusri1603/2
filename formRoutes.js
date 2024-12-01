@@ -1,5 +1,5 @@
 const express = require('express');
-const FormData = require('../models/formData');
+const FormData = require('./formData');
 
 const router = express.Router();
 
